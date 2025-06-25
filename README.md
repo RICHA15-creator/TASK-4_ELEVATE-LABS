@@ -1,5 +1,5 @@
 # TASK-4_ELEVATE-LABS
-# Task-4-Setup-and-use-a-Firewall-on-Windows-Linux
+# Setup-and-use-a-Firewall-on-Windows-Linux
 
 ## Tasks
 In kali linux terminal
